@@ -1,6 +1,7 @@
 ### Hi I'm Xinyu 👋
 - 🔭 I’m currently working at [Bytedance](https://github.com/bytedance).
 - 🌱 I’m currently learning Graph-Embedding/NLP and more.
+- ✨ Recently I'm interested in LLM, and here is some [Modest Understandings on LLM](https://bytedance.feishu.cn/docx/doxcn3zm448MK9sK6pHuPsqtH8f)
 - 💬 Ask me about 
   - 🐍 Python
   - 🐛 Write a bug
