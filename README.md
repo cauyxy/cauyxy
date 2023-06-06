@@ -6,6 +6,8 @@
   - 🐍 Python
   - 🐛 Write a bug
 - 📫 How to reach me： yangxinyu.715@bytedance.com
+- 📱  Tel: 18338224727 
+- 📺 Bilibili: [小杨不努力0v0](https://space.bilibili.com/1564408396)
 
 - ⚡ Fun fact: My cat's name is Aphelios, which happens to be the name of my favorite hero in League of Legends.
 
