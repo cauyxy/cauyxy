@@ -4,7 +4,8 @@
 - ✨ Recently I'm interested in LLM, and here is some [Modest Understandings on LLM](https://bytedance.feishu.cn/docx/doxcn3zm448MK9sK6pHuPsqtH8f)
 - 💬 Ask me about 
   - 🐍 Python
-  - 🐛 Write a bug
+  - 🚀 CUDA/C++
+  - 🐛 Write bugs
 - 📫 How to reach me： yangxinyu.715@bytedance.com
 - 📱  Tel: 18338224727 
 - 📺 Bilibili: [小杨不努力0v0](https://space.bilibili.com/1564408396)
