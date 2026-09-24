@@ -10,12 +10,9 @@
 <br />
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="cauyxy's GitHub stats" height="170" />
-  <img src="./profile/top-langs.svg" alt="cauyxy's top languages" height="170" />
-</p>
-
-<p align="center">
+  <img src="./profile/stats.svg" alt="cauyxy's GitHub stats" width="49%" />
+  <img src="./profile/top-langs.svg" alt="cauyxy's top languages" width="49%" />
   <a href="https://github.com/BazaarPlusPlus/BazaarPlusPlus">
-    <img src="./profile/pin-bazaarplusplus.svg" alt="BazaarPlusPlus/BazaarPlusPlus" />
+    <img src="./profile/pin-bazaarplusplus.svg" alt="BazaarPlusPlus/BazaarPlusPlus" width="98.5%" />
   </a>
 </p>
