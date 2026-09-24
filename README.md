@@ -16,4 +16,8 @@
   <img src="./profile/top-langs.svg" alt="cauyxy's top languages" height="165" />
 </p>
 
+<a href="https://github.com/BazaarPlusPlus/BazaarPlusPlus">
+  <img src="./profile/pin-bazaarplusplus.svg" alt="BazaarPlusPlus/BazaarPlusPlus" />
+</a>
+
 <sub>Cards are generated daily by [GitHub Readme Stats Action](https://github.com/stats-organization/github-readme-stats-action).</sub>
