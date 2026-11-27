@@ -1,0 +1,89 @@
+<svg width="840" height="118" viewBox="0 0 840 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BazaarPlusPlus/BazaarPlusPlus: A BepInEx mod for The Bazaar. (387 stars, 44 forks)">
+  <title>BazaarPlusPlus/BazaarPlusPlus</title>
+  <style>
+    .repo-owner {
+      font: 400 14.5px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      fill: #8d96a0;
+    }
+    .repo-name {
+      font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      fill: #58a6ff;
+    }
+    .repo-desc {
+      font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      fill: #8d96a0;
+    }
+    .release-pill {
+      font: 500 11px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      fill: #58a6ff;
+    }
+    .meta-pill {
+      font: 500 10.5px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      fill: #8d96a0;
+    }
+    .topic-pill {
+      font: 400 11px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      fill: #8d96a0;
+    }
+    .lang-text {
+      font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      fill: #e6edf3;
+    }
+    .stat-label {
+      font: 500 11.5px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      fill: #7d8590;
+    }
+    .stat-value {
+      font: 600 21px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+      fill: #e6edf3;
+      font-variant-numeric: tabular-nums;
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="839" height="117" rx="10" fill="#0d1117" stroke="#30363d" />
+
+  <!-- Left: Repo Identity -->
+  <g transform="translate(24, 21)">
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="#7d8590">
+      <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" />
+    </svg>
+  </g>
+  <text x="48" y="33.5"><tspan class="repo-owner">BazaarPlusPlus / </tspan><tspan class="repo-name">BazaarPlusPlus</tspan></text>
+  <rect x="278.4" y="18.5" width="55.6" height="20" rx="10" fill="#12263f" /><text x="306.2" y="32" text-anchor="middle" class="release-pill">v6.4.0</text><rect x="340.0" y="18.5" width="32.9" height="20" rx="10" fill="#161b22" stroke="#30363d" /><text x="356.4" y="32" text-anchor="middle" class="meta-pill">MIT</text>
+
+  <!-- Description -->
+  <text x="24" y="60" class="repo-desc">A BepInEx mod for The Bazaar.</text>
+
+  <!-- Language & Topics -->
+  <circle cx="29" cy="87" r="4" fill="#7355dd" />
+  <text x="40" y="91" class="lang-text">C#</text>
+  <rect x="67.4" y="77" width="50.3" height="20" rx="10" fill="#161b22" stroke="#30363d" /><text x="92.6" y="90.5" text-anchor="middle" class="topic-pill">bepinex</text><rect x="123.7" y="77" width="62.0" height="20" rx="10" fill="#161b22" stroke="#30363d" /><text x="154.7" y="90.5" text-anchor="middle" class="topic-pill">game-mod</text><rect x="191.7" y="77" width="55.6" height="20" rx="10" fill="#161b22" stroke="#30363d" /><text x="219.5" y="90.5" text-anchor="middle" class="topic-pill">harmony</text><rect x="253.3" y="77" width="41.5" height="20" rx="10" fill="#161b22" stroke="#30363d" /><text x="274.0" y="90.5" text-anchor="middle" class="topic-pill">react</text><rect x="300.8" y="77" width="36.0" height="20" rx="10" fill="#161b22" stroke="#30363d" /><text x="318.8" y="90.5" text-anchor="middle" class="topic-pill">rust</text>
+
+  <!-- Right: Stats Column -->
+  <line x1="612.5" y1="20" x2="612.5" y2="98" stroke="#21262d" />
+
+  <!-- Stars -->
+  <g transform="translate(638, 36)">
+    <svg width="13" height="13" viewBox="0 0 16 16" fill="#7d8590">
+      <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z" />
+    </svg>
+    <text x="19" y="10.5" class="stat-label">Stars</text>
+    <text x="0" y="39" class="stat-value">387</text>
+  </g>
+
+  <!-- Forks -->
+  <g transform="translate(734, 36)">
+    <svg width="13" height="13" viewBox="0 0 16 16" fill="#7d8590">
+      <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z" />
+    </svg>
+    <text x="19" y="10.5" class="stat-label">Forks</text>
+    <text x="0" y="39" class="stat-value">44</text>
+  </g>
+
+  <!-- Subtle External Indicator -->
+  <g transform="translate(804, 18)">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="#7d8590">
+      <path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z" />
+    </svg>
+  </g>
+</svg>
